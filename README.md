@@ -1,7 +1,7 @@
 <h1 align="center"><samp>Making Awesome Web-Apps since 2022</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px"> </h1>
 
 <h2 align="center"><samp>Hi 👋 I'm Raghav Babbar</samp></h2>
-<h3 align="center"><samp>A frontend developer from Mumbai, India</samp> </h3>
+<h3 align="center"><samp>A Frontend Developer from Mumbai, India</samp> </h3>
 
 <img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
 
